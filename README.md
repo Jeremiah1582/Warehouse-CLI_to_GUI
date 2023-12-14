@@ -19,14 +19,14 @@ The [sample directory](sample) in this repository has some sample data you can u
 
 You can copy these two files into your project repository.
 
-You will have to use these lists the way you have seen during the lecture with the `range` function.
+You will have to use these lists the way you have seen during the previouse lecture with the `range` function.
 
 ```python
 for item in warehouse1:
     # instructions
 ```
 
-## Description
+## Task 1
 
 Go to your repository and create a directory named `cli` (standing for Command Line Interface). Copy the files  `data.py` and `query.py` from the [sample](sample) directory to your repository directory.
 
@@ -53,6 +53,11 @@ Edit the file `query.py` and write a script that produces the following workflow
     1. If the user picked `3`, the script should do nothing else.
     1. If the user types anything different than `1`, `2` or `3` it should show an error message indicating the operation entered is not valid.
 1. Display a final message thanking the user for the visit, using their name typed at the beginning.
+
+## Task 2
+    Attempt to use what you have learned about Pythons Tkinter module to implement your CLI as a GUI. 
+    - the results should also display inside a/the GUI window rather than in the terminal 
+    
 
 > **IMPORTANT**
 >
