@@ -68,7 +68,7 @@ Edit the file `query.py` and write a script that produces the following workflow
 > *If you want to do more you can pick some of these add-ons*.
 > - Use a while loop to let the user order multiple items during the same session.
 
-## Sample outputs
+## CLI Sample outputs
 You can use these samples to get a better idea of what the script should do. The text does not need to be exactly as it appears here. This is your project and you can adapt it as you wish, but the general flow should be as described.
 
 **Listing all items**
